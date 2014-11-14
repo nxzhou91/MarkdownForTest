@@ -6,7 +6,7 @@ MarkdownForTest
 
 <img src="https://raw.github.com/ntop001/umeng-android-sdk-theme/master/update/default/light.png" width="500" />
 
-### <a id="title2">结构</a>
+### <a id="title2"/>结构
 
 自动更新需要的默认资源结构如下：
 
